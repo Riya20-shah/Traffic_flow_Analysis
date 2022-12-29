@@ -1,0 +1,8 @@
+,Date_Time,Number of Frames,Total Vehicals,Number of Vehicals in Left,Number of Vehicals in Right,Traffic in Left,Traffic in Right
+0,2022-12-13 13:01:59.611752,1,16,12,4,High Traffic,Low Traffic
+1,2022-12-13 13:01:59.611752,2,14,12,2,High Traffic,Low Traffic
+2,2022-12-13 13:01:59.611752,3,13,9,4,Moderate Traffic,Low Traffic
+3,2022-12-13 13:01:59.611752,4,11,8,3,Moderate Traffic,Low Traffic
+4,2022-12-13 13:01:59.611752,5,12,9,3,Moderate Traffic,Low Traffic
+5,2022-12-13 13:01:59.611752,6,14,11,3,High Traffic,Low Traffic
+6,2022-12-13 13:01:59.611752,7,16,13,3,High Traffic,Low Traffic
